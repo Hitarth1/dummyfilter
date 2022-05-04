@@ -1,0 +1,9 @@
+.hide-reply {
+  display: none;
+}
+.show-reply {
+  display: block;
+}
+.hide-comment-cnt {
+  display: none;
+}

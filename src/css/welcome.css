@@ -1,0 +1,406 @@
+/***Notification Css End***/
+
+.chat-editbtn {
+  color: #252423;
+}
+
+.Chat-panel-head h5 {
+  font-weight: 600;
+}
+
+/* tabs css start 6nov */
+.Actabs .tab-content {
+  background: #fff;
+}
+
+.custom-nav-tabs .nav-link {
+  background-color: #1a6dbd;
+  color: #fff;
+  border-radius: 0px;
+  text-align: center;
+  font-size: 18px;
+  border: 1px solid transparent !important;
+  border-top: 3px solid #1a6dbd !important;
+}
+
+.custom-nav-tabs .nav-item.show .nav-link,
+.custom-nav-tabs .nav-link.active {
+  color: #000;
+  background-color: #fff;
+  border-color: #1a6dbd #dee2e6 #fff !important;
+}
+
+.custom-nav-tabs .nav-item .nav-link.Orientation {
+  color: #fff;
+  background-color: #7ac33d;
+  border-color: #7ac33d #dee2e6 #fff !important;
+}
+
+.custom-nav-tabs .nav-item .nav-link.Orientation:focus,
+.custom-nav-tabs .nav-item .nav-link.Orientation.active {
+  color: #000;
+  background-color: #fff;
+  border-color: #7ac33d #dee2e6 #fff;
+}
+
+.Actabs .nav-tabs {
+  display: none;
+}
+
+.custom-nav-tabs li a {
+  font-weight: 600;
+  color: #161618;
+  text-transform: uppercase;
+}
+
+.Actabs .card.cmpCard .card-header {
+  display: block;
+}
+
+.clsList {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.clsList li {
+  margin-bottom: 5px;
+  display: inline-block;
+  width: 100%;
+}
+
+.clsList li label {
+  font-weight: bold;
+  margin: 0;
+  padding-right: 10px;
+  margin-bottom: 5px;
+}
+
+.Actabs .card.cmpCard .card-header {
+  font-size: 20px;
+  color: #fff;
+  border: none;
+}
+
+.Actabs .card.cmpCard .card-header i {
+  margin-right: 10px;
+}
+
+.card.cmpCard {
+  min-height: 100%;
+  border: none;
+  background-clip: inherit;
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 38%);
+}
+
+.card.cmpCard .btn {
+  font-size: 14px;
+}
+
+.sub-ttl {
+  padding: 30px 0px;
+}
+
+.sub-ttl h2 {
+  color: #467fcf;
+  font-weight: bold;
+}
+
+table.tbGeneral.table thead th {
+  background: #467fcf !important;
+  border-color: #467fcf !important;
+  color: #fff;
+}
+
+.cmpCard.cd-1 .card-header {
+  background: #ff0006;
+}
+
+.cmpCard.cd-2 .card-header {
+  background: #ff8814;
+}
+
+.cmpCard.cd-3 .card-header {
+  background: #0066cc;
+}
+
+.cmpCard.cd-4 .card-header {
+  background: #0066cc;
+}
+
+.cmpCard.cd-5 .card-header {
+  background: #ff8814;
+}
+
+.qhead p {
+  font-size: 25px;
+}
+
+.qhead strong,
+.qhead b {
+  color: #ff8814;
+}
+
+.ac-button:after {
+  content: "";
+  position: absolute;
+  right: 15px;
+  border-bottom: 7px solid #000000;
+  border-left: 7px solid transparent;
+  border-right: 7px solid transparent;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  -webkit-transition: 300ms all;
+  transition: 300ms all;
+}
+
+.custom-nav-tabs li + li {
+  margin-left: 10px;
+}
+
+.Actabs .tab-content > .tab-pane .card-body > div {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.Actabs .tab-content > .tab-pane .card-body > div .col-sm-4 > div {
+  height: 100%;
+  border-radius: 6px 6px 0 0 !important;
+  overflow: hidden;
+}
+
+.Actabs .tab-content > .tab-pane .card-body > div .col-sm-4 .nso-div {
+  background: #bcdae7;
+  padding: 0;
+}
+
+.nso-div.Problems-bg {
+  background: #bcdae7;
+}
+
+.nso-div h2 {
+  background: #0066cc;
+  color: #fff;
+  font-size: 19px;
+  padding: 15px;
+  margin: 0 0 15px 0;
+  text-align: center;
+}
+
+.Actabs .tab-content > .tab-pane .card-body > div .col-sm-4 div h2 i {
+  margin-right: 5px;
+}
+
+.nso-div.Problems-bg h2 {
+  background: #ff0006;
+}
+
+.Actabs .tab-content > .tab-pane .card-body > div .col-sm-4 .nso-div ul {
+  min-height: inherit;
+  padding: 0 !important;
+  margin: 0px;
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+.Actabs .tab-content > .tab-pane .card-body > div .col-sm-4 .nso-div ul li {
+  margin: 0 !important;
+  padding: 0px 15px 5px 15px;
+  list-style: none !important;
+  font-size: 15px;
+}
+
+.Actabs
+  .tab-content
+  > .tab-pane
+  .card-body
+  .col-sm-4
+  > div.nso-div.Problems-bg
+  > ul
+  > li {
+  position: relative;
+  padding-left: 25px;
+}
+
+.Actabs .tab-content > .tab-pane .card-body .col-sm-4 .btn-info {
+  color: #fff;
+  background-color: #5bc0de;
+  border-color: #46b8da;
+}
+
+.Actabs .tab-content > .tab-pane .card-body .col-sm-4 .btn-info:hover {
+  color: #fff;
+  background-color: #31b0d5;
+  border-color: #269abc;
+}
+
+.Actabs .tab-content > .tab-pane .card-body > div .col-sm-4:nth-child(2) h2 {
+  background: #ff8814;
+}
+
+.Actabs .tab-content > .tab-pane .card-body table * {
+  font-size: 14px;
+}
+
+.Actabs .tab-content > .tab-pane .card-body table tbody td {
+  border-top: 1px solid #e6e6e6 !important;
+}
+
+.Actabs .tab-content > .tab-pane .card-body table tbody td p {
+  line-height: 26px;
+}
+
+.custom-nav-tabs .nav-link strong {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.tab-content.cnt-border {
+  border-left: 1px solid #dee2e6;
+  border-right: 1px solid #dee2e6;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.tab-content.cnt-border .card.tab-pane {
+  border: 0px;
+}
+
+.tab-content.cnt-border .card.tab-pane .card-body {
+  padding: 0px;
+}
+
+@media (min-width: 768px) {
+  .Actabs .nav-tabs {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+
+  .Actabs .card .card-header {
+    display: none;
+  }
+
+  .Actabs .card .collapse {
+    display: block;
+  }
+}
+
+@media (max-width: 1280px) {
+  .custom-nav-tabs .nav-link {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .Actabs .tab-content > .tab-pane .card-body > div {
+    display: block;
+  }
+
+  .Actabs .tab-content > .tab-pane .card-body > div .col-sm-4 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 767px) {
+  .Actabs .tab-content > .tab-pane {
+    display: block !important;
+    opacity: 1;
+    margin-bottom: 7px;
+  }
+
+  .Actabs .card-header.m-head {
+    background-color: #fff;
+    padding: 0px;
+    margin-bottom: -1px;
+  }
+
+  .Actabs .card-header a {
+    font-size: 15px;
+    color: #000000;
+    display: block;
+    width: 100%;
+    position: relative;
+    padding: 15px;
+    padding-right: 36px;
+  }
+
+  .Actabs .card-header a:after {
+    content: "";
+    position: absolute;
+    right: 15px;
+    border-bottom: 7px solid #000000;
+    border-left: 7px solid transparent;
+    border-right: 7px solid transparent;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    -webkit-transition: 300ms all;
+    transition: 300ms all;
+  }
+
+  .Actabs .card-header a.collapsed:after {
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+  }
+
+  .Actabs .tab-content {
+    padding: 0px !important;
+    background: transparent;
+  }
+
+  .Actabs .card.cmpCard .card-header {
+    font-size: 15px;
+  }
+
+  .cl-cmp {
+    margin-bottom: 20px;
+  }
+
+  .sub-ttl {
+    padding: 0px 0px 20px 0px;
+  }
+
+  .sub-ttl h2 {
+    font-size: 18px;
+    margin: 0px;
+  }
+
+  .qhead p {
+    font-size: 18px;
+  }
+
+  table.tbGeneral.table thead th {
+    padding: 10px;
+    font-size: 14px;
+    white-space: nowrap;
+  }
+
+  .Actabs p {
+    line-height: 20px;
+  }
+
+  .tab-content.cnt-border .card.tab-pane .card-body {
+    padding: 15px;
+  }
+
+  .tab-content.cnt-border {
+    border: none;
+  }
+
+  .Actabs .tab-content > .tab-pane .card-body > div .col-sm-4,
+  .Actabs .tab-content > .tab-pane .card-body > .col-sm-12 {
+    padding: 0px;
+  }
+}
+
+/* tabs css end 6nov */

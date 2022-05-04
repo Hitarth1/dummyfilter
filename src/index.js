@@ -1,13 +1,20 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import './custom.css';
+import "./../src/css/responsive.css";
+import "./../src/css/global.css";
+// import "./../src/css/all.min.css";
+// import "bootstrap/dist/css/bootstrap.min.css";
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Assemblies from './assembly';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    {/* <App /> */}
+    <Assemblies />
   </React.StrictMode>
 );
 
